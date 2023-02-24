@@ -29,9 +29,5 @@ Here are some ideas to get you started:
 ### 🤔
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimTank&repo=iju-where-am-i-web)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimTank&repo=iju-where-am-i-android)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimTank&repo=)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimTank&repo=)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimTank&repo=)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KimTank&repo=)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimTank&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
