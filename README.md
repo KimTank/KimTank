@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 👯 My Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimTank)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimTank&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔭 Visitors
 <p>
